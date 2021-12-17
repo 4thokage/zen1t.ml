@@ -6,7 +6,7 @@ function trash2021() {
       cover:
         "/covers/default.jpg",
       artist: "Afredo Fraggins",
-      audio: "/songs/intro.mp3",
+      audio: "https://zen1t-ml.herokuapp.com/songs/intro.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: true,
@@ -16,7 +16,7 @@ function trash2021() {
       cover:
       "/covers/default.jpg",
       artist: "Afonso Manso",
-      audio: "/songs/psytrance.mp3",
+      audio: "https://zen1t-ml.herokuapp.com/songs/psytrance.mp3",
       color: ["#EF8EA9", "#ab417f"],
       id: uuidv4(),
       active: false,
@@ -26,7 +26,7 @@ function trash2021() {
       cover:
       "/covers/default.jpg",
       artist: "Rodanov Vitseti",
-      audio: "/songs/bathuska.mp3",
+      audio: "https://zen1t-ml.herokuapp.com/songs/bathuska.mp3",
       color: ["#EF8EA9", "#ab417f"],
       id: uuidv4(),
       active: false,
