@@ -24,7 +24,7 @@ function trash2021() {
     {
       name: "Bathuska - Litourgiya microCOVER",
       cover:
-      "/covers/default.jpg",
+      "/covers/bathuska.jpg",
       artist: "Rodanov Vitseti",
       audio: "https://zen1t-ml.herokuapp.com/songs/bathuska.mp3",
       color: ["#EF8EA9", "#ab417f"],
@@ -34,7 +34,7 @@ function trash2021() {
     {
       name: "Gorillaz - Kids with guns microCOVER",
       cover:
-      "/covers/default.jpg",
+      "/covers/gorillaz.jpg",
       artist: "Macaco Donald",
       audio: "https://zen1t-ml.herokuapp.com/songs/kids.mp3",
       color: ["#EF8EA9", "#ab417f"],
@@ -44,7 +44,7 @@ function trash2021() {
     {
       name: "Hades - Tartarus microCOVER",
       cover:
-      "/covers/default.jpg",
+      "/covers/hades.jpg",
       artist: "Macaco Donald",
       audio: "https://zen1t-ml.herokuapp.com/songs/tartarus.mp3",
       color: ["#EF8EA9", "#ab417f"],
@@ -54,7 +54,7 @@ function trash2021() {
     {
       name: "Haken - Cockroach King microCOVER",
       cover:
-      "/covers/default.jpg",
+      "/covers/carlos.jpg",
       artist: "Reinaldo Barata",
       audio: "https://zen1t-ml.herokuapp.com/songs/cockroach.mp3",
       color: ["#EF8EA9", "#ab417f"],
