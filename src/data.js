@@ -4,7 +4,7 @@ function trash2021() {
     {
       name: "Intro",
       cover:
-        "/covers/me.jpg",
+        "/covers/me.webp",
       artist: "Afredo Fraggins",
       audio: "https://zen1t-ml.herokuapp.com/songs/flute.mp3",
       color: ["#205950", "#2ab3bf"],
@@ -14,7 +14,7 @@ function trash2021() {
     {
       name: "Psy",
       cover:
-      "/covers/default.jpg",
+      "/covers/default.webp",
       artist: "Afonso Manso",
       audio: "https://zen1t-ml.herokuapp.com/songs/psytrance.mp3",
       color: ["#EF8EA9", "#ab417f"],
@@ -24,7 +24,7 @@ function trash2021() {
     {
       name: "Bathuska - Litourgiya microCOVER",
       cover:
-      "/covers/bathuska.jpg",
+      "/covers/bathuska.webp",
       artist: "Rodanov Vitseti",
       audio: "https://zen1t-ml.herokuapp.com/songs/bathuska.mp3",
       color: ["#4A067C", "#954bcc"],
@@ -34,7 +34,7 @@ function trash2021() {
     {
       name: "Gorillaz - Kids with guns microCOVER",
       cover:
-      "/covers/gorillaz.jpg",
+      "/covers/gorillaz.webp",
       artist: "Macaco Donald",
       audio: "https://zen1t-ml.herokuapp.com/songs/kids.mp3",
       color: ["#c47903", "#eabf7a"],
@@ -44,7 +44,7 @@ function trash2021() {
     {
       name: "Hades - Tartarus microCOVER",
       cover:
-      "/covers/hades.jpg",
+      "/covers/hades.webp",
       artist: "Hades ca vir hades",
       audio: "https://zen1t-ml.herokuapp.com/songs/tartarus.mp3",
       color: ["#b30000", "#341818"],
@@ -54,7 +54,7 @@ function trash2021() {
     {
       name: "Haken - Cockroach King microCOVER",
       cover:
-      "/covers/carlos.jpg",
+      "/covers/carlos.webp",
       artist: "Reinaldo Barata",
       audio: "https://zen1t-ml.herokuapp.com/songs/cockroach.mp3",
       color: ["#FFFF00", "#979732"],
@@ -64,7 +64,7 @@ function trash2021() {
     {
       name: "Adiafa - Meninas da ribeira do sado microCOVER",
       cover:
-      "/covers/frog.jpg",
+      "/covers/frog.webp",
       artist: "Arlete Silva, Miss ribeira do sado 2021",
       audio: "https://zen1t-ml.herokuapp.com/songs/finas.mp3",
       color: ["#C12877", "#3a99d9"],

@@ -101,12 +101,14 @@ const Player = ({
           className="track"
         >
           <input
+            id="songTime"
             value={songInfo.currentTime}
             type="range"
             max={songInfo.duration || 0}
             min={0}
             onChange={dragHandler}
           />
+          <label for="songTime"></label>
           <div style={trackAnim} className="animate-track"></div>
         </div>
         <p>{songInfo.duration ? getTime(songInfo.duration) : "0:00"}</p>
