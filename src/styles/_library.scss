@@ -17,6 +17,17 @@
   }
 }
 
+.App-dark > .library {
+  background: #333;
+}
+
+.App-dark > nav > button {
+  color:azure;
+  &:hover {
+    background: violet;
+  }
+}
+
 .library-song {
   display: flex;
   align-items: center;

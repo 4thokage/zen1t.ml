@@ -4,9 +4,9 @@ function trash2021() {
     {
       name: "Intro",
       cover:
-        "/covers/default.jpg",
+        "/covers/me.jpg",
       artist: "Afredo Fraggins",
-      audio: "https://zen1t-ml.herokuapp.com/songs/Intro.mp3",
+      audio: "https://zen1t-ml.herokuapp.com/songs/flute.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: true,

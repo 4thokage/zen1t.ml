@@ -11,6 +11,8 @@ import trash2021 from "./data";
 import { playAudio } from "./util";
 
 function App() {
+
+  const [isDark, setIsDark] = React.useState(false);
   //Ref
   const audioRef = useRef(null);
 
@@ -47,8 +49,8 @@ function App() {
     return;
   };
   return (
-    <div className={`App ${libraryStatus ? "library-active" : ""}`}>
-      <Nav libraryStatus={libraryStatus} setLibraryStatus={setLibraryStatus} />
+    <div className={`${isDark ? "App-dark" : "App"} ${libraryStatus ? "library-active" : ""}`}>
+      <Nav libraryStatus={libraryStatus} setLibraryStatus={setLibraryStatus} isDark={isDark} setIsDark={setIsDark} />
       <Song isPlaying={isPlaying} currentSong={currentSong} />
       <Player
         audioRef={audioRef}
