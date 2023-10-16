@@ -6,7 +6,7 @@ function trash2021() {
       cover:
         "/covers/me.webp",
       artist: "Afredo Fraggins",
-      audio: "https://zen1t-ml.herokuapp.com/songs/flute.mp3",
+      audio: "/songs/flute.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: true,
@@ -16,7 +16,7 @@ function trash2021() {
       cover:
       "/covers/default.webp",
       artist: "Afonso Manso",
-      audio: "https://zen1t-ml.herokuapp.com/songs/psytrance.mp3",
+      audio: "/songs/psytrance.mp3",
       color: ["#EF8EA9", "#ab417f"],
       id: uuidv4(),
       active: false,
@@ -26,7 +26,7 @@ function trash2021() {
       cover:
       "/covers/bathuska.webp",
       artist: "Rodanov Vitseti",
-      audio: "https://zen1t-ml.herokuapp.com/songs/bathuska.mp3",
+      audio: "/songs/bathuska.mp3",
       color: ["#4A067C", "#954bcc"],
       id: uuidv4(),
       active: false,
@@ -36,7 +36,7 @@ function trash2021() {
       cover:
       "/covers/gorillaz.webp",
       artist: "Macaco Donald",
-      audio: "https://zen1t-ml.herokuapp.com/songs/kids.mp3",
+      audio: "/songs/kids.mp3",
       color: ["#c47903", "#eabf7a"],
       id: uuidv4(),
       active: false,
@@ -46,7 +46,7 @@ function trash2021() {
       cover:
       "/covers/hades.webp",
       artist: "Hades ca vir hades",
-      audio: "https://zen1t-ml.herokuapp.com/songs/tartarus.mp3",
+      audio: "/songs/tartarus.mp3",
       color: ["#b30000", "#341818"],
       id: uuidv4(),
       active: false,
@@ -56,7 +56,7 @@ function trash2021() {
       cover:
       "/covers/carlos.webp",
       artist: "Reinaldo Barata",
-      audio: "https://zen1t-ml.herokuapp.com/songs/cockroach.mp3",
+      audio: "/songs/cockroach.mp3",
       color: ["#FFFF00", "#979732"],
       id: uuidv4(),
       active: false,
@@ -66,7 +66,7 @@ function trash2021() {
       cover:
       "/covers/frog.webp",
       artist: "Arlete Silva, Miss ribeira do sado 2021",
-      audio: "https://zen1t-ml.herokuapp.com/songs/finas.mp3",
+      audio: "/songs/finas.mp3",
       color: ["#C12877", "#3a99d9"],
       id: uuidv4(),
       active: false,
