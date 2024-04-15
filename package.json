@@ -16,5 +16,9 @@
   },
   "engines": {
     "node": ">=18"
+  },
+  "devDependencies": {
+    "solid-start-cloudflare-pages": "^0.3.11",
+    "wrangler": "^3.50.0"
   }
 }
